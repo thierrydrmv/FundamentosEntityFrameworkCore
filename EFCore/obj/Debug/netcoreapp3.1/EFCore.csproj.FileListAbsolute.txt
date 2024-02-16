@@ -1,0 +1,14 @@
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\bin\Debug\netcoreapp3.1\EFCore.exe
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\bin\Debug\netcoreapp3.1\EFCore.deps.json
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\bin\Debug\netcoreapp3.1\EFCore.runtimeconfig.json
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\bin\Debug\netcoreapp3.1\EFCore.runtimeconfig.dev.json
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\bin\Debug\netcoreapp3.1\EFCore.dll
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\bin\Debug\netcoreapp3.1\EFCore.pdb
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.AssemblyInfoInputs.cache
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.AssemblyInfo.cs
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.csproj.CoreCompileInputs.cache
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.sourcelink.json
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.dll
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.pdb
+C:\Users\thier\source\repos\FundamentosEntityFrameworkCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.genruntimeconfig.cache
